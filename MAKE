@@ -1,0 +1,3 @@
+
+rm -rf photons_energy libh10.so h10Dict.h photons_energy.o
+gmake
