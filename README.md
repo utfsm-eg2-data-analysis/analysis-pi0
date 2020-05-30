@@ -1,6 +1,6 @@
 # analysis-pi0
 
-Code developed by [Taisiya Mineeva](taya.mineeva@gmail.com) for Neutral Pion Hadronization Studies using the EG2 dataset.
+Code developed by [Taisiya Mineeva](mailto:taya.mineeva@gmail.com) for Neutral Pion Hadronization Studies using the EG2 dataset.
 
 ## Compilation
 
